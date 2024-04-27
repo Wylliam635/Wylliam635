@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(10,100)
+  createCanvas(98,100)
   background("black")
 }
 
