@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(800,800)
   background("black")
 }
 
@@ -12,3 +12,4 @@ function draw() {
     rect(mouseX, mouseY, 20, 35);
   }
 }
+
